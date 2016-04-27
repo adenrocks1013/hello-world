@@ -1,8 +1,5 @@
 # hello-world
 My first project
-Hows youre day? 
-(\__/)
-(='.'=)
-(")_(")    
+Hows youre day?
 
 
