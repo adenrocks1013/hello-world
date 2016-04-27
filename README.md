@@ -1,5 +1,15 @@
 # hello-world
 My first project
-<p>This text is bold.</p>
 Hows youre day? 
+,_     _
+ |\\_,-~/
+ / _  _ |    ,--.
+(  @  @ )   / ,-'
+ \  _t_/-._( (
+ /         `. \
+|         _  \ |
+ \ \ ,  /      |
+  || |-_\__   /
+ ((_/`(____,-'
+
 
